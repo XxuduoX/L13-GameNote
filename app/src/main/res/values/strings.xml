@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Game Note</string>
+    <string name="back_to_note_list">Back to note list</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="textview">TextView</string>
+    <string name="view_your_notes">View your notes</string>
+    <string name="add_new_notes">Add new notes</string>
+    <string name="welcome_to_game_note">WELCOME TO GAME NOTE</string>
+    <string name="id">ID</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="description">Description</string>
+    <string name="game_type">Game Type</string>
+    <string name="game_name">Game Name</string>
+    <string name="name">Name</string>
+</resources>
